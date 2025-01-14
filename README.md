@@ -6,6 +6,8 @@ SAR Images Clustering Based on Modified Nonlinear Orthogonal Nonnegative Matrix 
 #  Abstract:
 This study presents the results of unsupervised learning (clustering) on Synthetic Aperture Radar (SAR) images. Fast and accurate clustering allows us to perform Automatic Target Recognition (ATR) in SAR images. Data can be automatically clustered based on similar properties. Nonnegative matrix factorization (NMF) is usually applied linearly. We employed a nonlinear NMF with orthogonal properties in this presentation. The outcomes of spectral clustering for subspaces and NMF matrix factorization are equivalent, as demonstrated by mathematical and empirical experiments. The results of kernel-based orthogonal in subspace clustering with updates in this method have been superior to those in other methods. We have been using the stationary target dataset to study our method's accuracy in acquisition and recognition.
 
+<a href="https://ieeexplore.ieee.org/document/10334905">Read paper</a>
+
 # References:
 [1] O. Kechagias-Stamatis and N. Aouf, “Automatic Target Recognition on Synthetic Aperture Radar Imagery: A Survey,” in IEEE Aerospace and Electronic Systems Magazine, vol. 36, no. 3, pp. 56-81, 1 March 2021.
 
